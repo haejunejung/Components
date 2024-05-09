@@ -1,0 +1,6 @@
+./next.config.mjs
+./tsconfig.json
+./.prettierrc.json
+./.eslintrc.json
+./craco.config.js
+./tsconfig.path.json

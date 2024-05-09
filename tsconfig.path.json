@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+
+    "paths": {
+      "@app": ["src/app/index.ts"],
+      "@entities": ["src/entities/index.ts"],
+      "@features": ["src/features/index.ts"],
+      "@screens": ["src/screens/index.ts"],
+      "@shared": ["src/shared/index.ts"],
+      "@widgets": ["src/widgets/index.ts"]
+    }
+  }
+}

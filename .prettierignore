@@ -1,0 +1,5 @@
+./node_modules
+./.next
+./next.config.mjs
+./craco.config.js
+./tsconfig.path.json
