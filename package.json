@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-aria/focus": "3.14.3",
+    "@react-aria/interactions": "3.0.0-nightly.2584",
     "craco-alias": "^3.0.1",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin": "1.0.1",
